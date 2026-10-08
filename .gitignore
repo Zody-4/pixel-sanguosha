@@ -1,0 +1,41 @@
+# Local Python environment
+.venv/
+.venv-build/
+.venv-android/
+
+# Python bytecode and test/lint caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Temporary pip build and unpack directories
+/pip-build-tracker-*/
+/pip-ephem-wheel-cache-*/
+/pip-install-*/
+/pip-unpack-*/
+
+# Scratch outputs; move approved deliverables to their project location
+/tmp/
+
+# Reproducible delivery outputs
+/dist/
+/build/
+
+# Local authoring material and private data
+/.cache/
+/.idea/
+*.log
+.env
+.env.*
+!.env.example
+*.jks
+*.keystore
+*.p12
+*.pfx
+/Music/work/
+/Music/sources/
+/Music/outputs/
+/Music/tools/
+/assets/comparisons/

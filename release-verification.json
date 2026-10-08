@@ -1,0 +1,17 @@
+{
+  "tests": {
+    "exit_code": 0,
+    "seconds": 20.22,
+    "count": 243
+  },
+  "source-smoke": {
+    "exit_code": 0,
+    "seconds": 0.41
+  },
+  "exe-smoke": {
+    "exit_code": 0,
+    "seconds": 0.61
+  },
+  "driver": "SDL dummy",
+  "user_data": "isolated temporary directory"
+}

@@ -1,0 +1,1354 @@
+{
+  "kind": "publication-source",
+  "complete_game_resources": true,
+  "public_upload_allowed": true,
+  "unverified_assets_included": true,
+  "rights_cleared_for_all_assets": false,
+  "files": [
+    {
+      "path": ".github/ISSUE_TEMPLATE/bug_report.md",
+      "bytes": 296,
+      "sha256": "e0aa0941f6925c4889a5705649641a5497316ffa9f52e5001954f8bd3cb3fe02"
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/rights_report.md",
+      "bytes": 479,
+      "sha256": "a07e805d89636a890071b03b62b7c6a676bd44e94942d42f815f5af0102d7747"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 621,
+      "sha256": "7b0d60d808c7ebec4357951bbe2eabeacbb626aa4f5b79ef374361698bc59c92"
+    },
+    {
+      "path": "AGENTS.md",
+      "bytes": 223,
+      "sha256": "630146a04ed78432dd0acc61102ac3eb881b5c53dbad9a33152a1ad94e7578d6"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1060,
+      "sha256": "f9a0d9ad14319be296f58bd82fa677ee7286778be73912235b613df1523acd8b"
+    },
+    {
+      "path": "Music/定稿/battle_bgm.wav",
+      "bytes": 4560940,
+      "sha256": "725a9d5058db299878d0508a0a67ebe15ad49cf386922f1d965f6691e5f86b3d"
+    },
+    {
+      "path": "Music/定稿/menu_bgm.wav",
+      "bytes": 4761644,
+      "sha256": "daa2e4cd4b3c7c6b3f3e4dbb75d87ad22b46fd02fe1f4beaaeab11e28252de6e"
+    },
+    {
+      "path": "Music/定稿/sfx/approved_manifest.json",
+      "bytes": 5672,
+      "sha256": "9e80d60aec691dc29d4f4de1953c80590809086f9fecd16d8ebdc1187f1f6d77"
+    },
+    {
+      "path": "Music/定稿/sfx/card_draw.wav",
+      "bytes": 35324,
+      "sha256": "449b7fcece8a6f61cbfc425dfea5c22233d99d75daba78936189c79158bdfb73"
+    },
+    {
+      "path": "Music/定稿/sfx/card_place.wav",
+      "bytes": 44144,
+      "sha256": "c41dce0882da43e58aa648092a4cdfe7d5fd09d030876ae64439e6a2e2b3e0ba"
+    },
+    {
+      "path": "Music/定稿/sfx/damage.wav",
+      "bytes": 55340,
+      "sha256": "b3d069ad60db8dcc92d1e151c1385709766d6732acff5769b9f59d8d2026f6fe"
+    },
+    {
+      "path": "Music/定稿/sfx/defeat.wav",
+      "bytes": 291104,
+      "sha256": "02dc84df1e24b8ea036cd55d74a68121c49901d20eae6214dfd11acd827955c1"
+    },
+    {
+      "path": "Music/定稿/sfx/equip.wav",
+      "bytes": 67076,
+      "sha256": "4406c22f90a9919bb6b0becf9ecd12fcef925525721c0bd7f05df06383f19f0f"
+    },
+    {
+      "path": "Music/定稿/sfx/heal.wav",
+      "bytes": 387420,
+      "sha256": "eb999c2fc4e8f3358eaba738d284b5685be2fdca39210723dbe7392c1b253e76"
+    },
+    {
+      "path": "Music/定稿/sfx/identity_reveal.wav",
+      "bytes": 44144,
+      "sha256": "93e496cca58c1131f9210de02b4416e98a09f8e0dc12f682d5c768b64478863d"
+    },
+    {
+      "path": "Music/定稿/sfx/judgement.wav",
+      "bytes": 44144,
+      "sha256": "93e496cca58c1131f9210de02b4416e98a09f8e0dc12f682d5c768b64478863d"
+    },
+    {
+      "path": "Music/定稿/sfx/licenses/kenney-casino.txt",
+      "bytes": 487,
+      "sha256": "3d9c53acb6e236d760da14030f54bc53e1d8c2599f78470c36b96fddcde09221"
+    },
+    {
+      "path": "Music/定稿/sfx/licenses/kenney-impact.txt",
+      "bytes": 608,
+      "sha256": "b49aa9c56b04528b95913de13e506a0f7c5e807b9925db9bfef86af1f91120db"
+    },
+    {
+      "path": "Music/定稿/sfx/licenses/kenney-rpg.txt",
+      "bytes": 478,
+      "sha256": "5735dfd72cb64cbbceda4ebc00c380c41ca680edb82ff153aa7c9ab97614c539"
+    },
+    {
+      "path": "Music/定稿/sfx/ui_click.wav",
+      "bytes": 21212,
+      "sha256": "644776579f294a251817c527370aa65853af8e362fd76248a4111bcbe87142f6"
+    },
+    {
+      "path": "Music/定稿/sfx/victory.wav",
+      "bytes": 370484,
+      "sha256": "63d93c39f0c47c47adf9ec3f12a83679a8af6798ea5ff8ced86ba3f03dce9ac0"
+    },
+    {
+      "path": "Music/定稿/voice/approved_manifest.json",
+      "bytes": 5983,
+      "sha256": "06f9c9486a646a01c96ea640f505e5a20cbf153c98663f1b8919b5a50ed847a3"
+    },
+    {
+      "path": "Music/定稿/voice/arrows.wav",
+      "bytes": 72410,
+      "sha256": "e80f39818e519e7009056596fb9101073f3da0c4745114f1350652139941dd09"
+    },
+    {
+      "path": "Music/定稿/voice/barbarians.wav",
+      "bytes": 57644,
+      "sha256": "5f514f35ab8c538525c7bbf53c8fe8620600f5ed9b022a50e072f336442a6362"
+    },
+    {
+      "path": "Music/定稿/voice/borrow_sword.wav",
+      "bytes": 61320,
+      "sha256": "b16654bb2cf56b5c99d94741499933ee213d392d8292024adc0eadd93d237a9a"
+    },
+    {
+      "path": "Music/定稿/voice/dismantle.wav",
+      "bytes": 49956,
+      "sha256": "631b82041002ff291552b3a036a1bb5fb2d3db409b0087a7ecb53338b5c7702e"
+    },
+    {
+      "path": "Music/定稿/voice/draw_two.wav",
+      "bytes": 65246,
+      "sha256": "3dc1219ca0d8176fb798cf6122c39dd7a5a792d88a5f34a760c96173ee5a7eac"
+    },
+    {
+      "path": "Music/定稿/voice/duel.wav",
+      "bytes": 30586,
+      "sha256": "75e0dfdfc8d70b5d77ba65ac413669707a4b60a84bf38763d2b487fb9178d13a"
+    },
+    {
+      "path": "Music/定稿/voice/harvest.wav",
+      "bytes": 87694,
+      "sha256": "90bf21084e5338d44415d5811939f9ea556ac8cb727c491b50f10176df0817e8"
+    },
+    {
+      "path": "Music/定稿/voice/indulgence.wav",
+      "bytes": 67936,
+      "sha256": "722e544e3609721516f87d197179d483442bfda16e0372c309043e7e222b5f24"
+    },
+    {
+      "path": "Music/定稿/voice/lightning.wav",
+      "bytes": 34998,
+      "sha256": "f146f3bf08572659140a5ae96ca71bc4c516dc24d268709083244fc834db2814"
+    },
+    {
+      "path": "Music/定稿/voice/negate.wav",
+      "bytes": 61374,
+      "sha256": "580cd47dea455b8b5016fbda1d12d4c7a7ae74a04ac1d401c239002b5bdc8d62"
+    },
+    {
+      "path": "Music/定稿/voice/peach_garden.wav",
+      "bytes": 56018,
+      "sha256": "8d64a4bcbeca5515b9f3a5fc8257b2b52bf7b4a8d75643a0dc29371e81e65db4"
+    },
+    {
+      "path": "Music/定稿/voice/sha.wav",
+      "bytes": 26924,
+      "sha256": "c8b34eabc239513da8a3fea083af31bc44f0f7e911a2aabd2ec29e84737a0eb0"
+    },
+    {
+      "path": "Music/定稿/voice/shan.wav",
+      "bytes": 26924,
+      "sha256": "e072458e1a8aa868c04bda7fdc007ccfd687a1b1710043e017bdb4f8be7d9183"
+    },
+    {
+      "path": "Music/定稿/voice/steal.wav",
+      "bytes": 57644,
+      "sha256": "9b74a328d79f5c7704cf658bb2f7f361e545c0b815416eb01056f28f233a5672"
+    },
+    {
+      "path": "Music/定稿/voice/your_turn.wav",
+      "bytes": 70294,
+      "sha256": "b3b762a8f80eefb581f213caecce01ccd6fef886c5d1e1ab2a45a0c504489f63"
+    },
+    {
+      "path": "NOTICE.md",
+      "bytes": 2087,
+      "sha256": "a47b0f2fc253052c28d9fccd5c0a0214c729f5ca7722c6a85351212faf44118e"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4037,
+      "sha256": "4842465a4b43254bb670819cca3597852bff88dd100cce051dc49e2a81c57331"
+    },
+    {
+      "path": "assets/references/卡背-设计参考.png",
+      "bytes": 2123609,
+      "sha256": "65103d2c7fc26e437ac994bdcfbdd6dd6ef4fa94bd1652fc4f1e2755a90c79a9"
+    },
+    {
+      "path": "assets/references/按键框-选中.png",
+      "bytes": 26762,
+      "sha256": "e7f9d2a7de66bfa8a22560c5b07ad4a2c4bfe785a51e064076117b9251e1dc09"
+    },
+    {
+      "path": "assets/references/按键框.png",
+      "bytes": 14123,
+      "sha256": "d782923e7f279f877d4acb878f230f681cc60eb6f9a12c4720154c344fe1102f"
+    },
+    {
+      "path": "assets/references/武将牌/吴-半身/吕蒙半身.png",
+      "bytes": 1344716,
+      "sha256": "402e2cb4a67ac0f01467fea7dc1add9070785edccba0dcee2d09c5958ec57a04"
+    },
+    {
+      "path": "assets/references/武将牌/吴-半身/周瑜半身.png",
+      "bytes": 1381064,
+      "sha256": "c827b7025c281ec1951b3f060839a1ba79ef8e0b7733b916db1590b1b3223020"
+    },
+    {
+      "path": "assets/references/武将牌/吴-半身/大乔半身.png",
+      "bytes": 1241965,
+      "sha256": "12a05e629f834b7abc09e57e2d369e39aaeefe19d5fa2adc1a1e4a8297ba9746"
+    },
+    {
+      "path": "assets/references/武将牌/吴-半身/孙尚香半身.png",
+      "bytes": 1590388,
+      "sha256": "b5f34feb8043651130fa758849ee9046c1fd67db087c7d75d12dd2c788cd923d"
+    },
+    {
+      "path": "assets/references/武将牌/吴-半身/孙权半身.png",
+      "bytes": 1586125,
+      "sha256": "b90e7b2fc59c6dc7cc5fdb8689e3d9cbac916bad502b2007c612206aa7502316"
+    },
+    {
+      "path": "assets/references/武将牌/吴-半身/甘宁半身.png",
+      "bytes": 1593910,
+      "sha256": "c6a193353844a84da0729e58ba8d78d10dbbca89e89e9f0250439fbf08782574"
+    },
+    {
+      "path": "assets/references/武将牌/吴-半身/陆逊半身.png",
+      "bytes": 1364023,
+      "sha256": "8e4279678875e8e358d4a4f5d7604b95669a8d13a37e24831099a40a9bd5e3b6"
+    },
+    {
+      "path": "assets/references/武将牌/吴-半身/黄盖半身.png",
+      "bytes": 1616369,
+      "sha256": "23a15d218fa13e847a794fa42aff71f5bf5af621c3abf83e835f5acf25e266f5"
+    },
+    {
+      "path": "assets/references/武将牌/群-半身/华佗半身.png",
+      "bytes": 1885370,
+      "sha256": "56a9b9b719f2b9ea672afa23023804202eda0038ac6866d1fc2152e375644761"
+    },
+    {
+      "path": "assets/references/武将牌/群-半身/吕布半身.png",
+      "bytes": 1993969,
+      "sha256": "36ea756a49c356a85f3154da53586129a9f2a282e46c1d8a6232f21b87382af1"
+    },
+    {
+      "path": "assets/references/武将牌/群-半身/貂蝉半身.png",
+      "bytes": 1751035,
+      "sha256": "f02089df67f2d02bbe811da4c16ce87b6bc1c15ef3f21361178f6e6971e093d1"
+    },
+    {
+      "path": "assets/references/武将牌/蜀-半身/关羽半身.png",
+      "bytes": 1669972,
+      "sha256": "9b5af5bc70de0a264d879b6f78755eb104cbe781f5521b9e2305dc4991b7984e"
+    },
+    {
+      "path": "assets/references/武将牌/蜀-半身/刘备半身.png",
+      "bytes": 1435099,
+      "sha256": "fd5cf92abdb9e992b4572684cbbca8fbe41e78733343382557020e54170b2bd2"
+    },
+    {
+      "path": "assets/references/武将牌/蜀-半身/张飞半身.png",
+      "bytes": 1669620,
+      "sha256": "14690192ef33d551479aa5bd82dd322265e2b6250ac1bb9b1b58ef88fbe182f3"
+    },
+    {
+      "path": "assets/references/武将牌/蜀-半身/诸葛亮半身.png",
+      "bytes": 1416672,
+      "sha256": "ca175ef41cf30db59fa885cd691787822723fb63d27fb3595ce00f49899d6749"
+    },
+    {
+      "path": "assets/references/武将牌/蜀-半身/赵云半身.png",
+      "bytes": 2239000,
+      "sha256": "5374914a6d5433196e7a3538090b553bcf057027f5fb97a2121ac19fca9ce94d"
+    },
+    {
+      "path": "assets/references/武将牌/蜀-半身/马超半身.png",
+      "bytes": 2184899,
+      "sha256": "1e6bb7ed5b7be9cacd2f790b9040145f72b012dc07db95868db27519e07e17c1"
+    },
+    {
+      "path": "assets/references/武将牌/蜀-半身/黄月英半身.png",
+      "bytes": 1635040,
+      "sha256": "8315c0ff3592fbcd6c9aa96550d886eb3d3064983f77f03090a8bb80a598e4ba"
+    },
+    {
+      "path": "assets/references/武将牌/魏-半身/司马懿半身.png",
+      "bytes": 1393765,
+      "sha256": "06d5512ed35e7dccd5b8666f2a86e3ce43d37fc9951f594d805b33cc9f4bbe38"
+    },
+    {
+      "path": "assets/references/武将牌/魏-半身/夏侯惇半身.png",
+      "bytes": 1770385,
+      "sha256": "5177284d3e1b7fb194c1ec463b99ea7a1fbaaf861b189e7283301f7e635ef911"
+    },
+    {
+      "path": "assets/references/武将牌/魏-半身/张辽半身.png",
+      "bytes": 1670288,
+      "sha256": "d4ad5e78bf9802c136235a7de63e90ed329bac093a45bf7e27716339d1f14b18"
+    },
+    {
+      "path": "assets/references/武将牌/魏-半身/曹操半身.png",
+      "bytes": 1385870,
+      "sha256": "3eb5d776a4c07d45f2b9006410ff2c110462ce196910987080c39d2872cf1e88"
+    },
+    {
+      "path": "assets/references/武将牌/魏-半身/甄姬半身.png",
+      "bytes": 1823698,
+      "sha256": "0a59af2b04ef20dc2b1a818876918ede43d5f641d459be72e99baa1ecb871f9b"
+    },
+    {
+      "path": "assets/references/武将牌/魏-半身/许褚半身.png",
+      "bytes": 1688908,
+      "sha256": "269f55e46d9dab6138372ef82479a579d2a9f0a1ddfdbe60410ad742b8b8e40c"
+    },
+    {
+      "path": "assets/references/武将牌/魏-半身/郭嘉半身.png",
+      "bytes": 1486651,
+      "sha256": "58771fd9ed931f09b558ffe4392f584f24dba3f65d5ad2cbb7b4c3a89e1d9100"
+    },
+    {
+      "path": "assets/references/结算.png",
+      "bytes": 1479496,
+      "sha256": "c1fcf7b1d94c400caac42de0133fd84f4867705b74f2ed01b0558e9b387403e2"
+    },
+    {
+      "path": "assets/references/身份卡/主公.png",
+      "bytes": 2463615,
+      "sha256": "fef8c66d20e10e07da3ad695359412919a8626f04c02671f7b1528bbb1b61b1f"
+    },
+    {
+      "path": "assets/references/身份卡/内奸.png",
+      "bytes": 2469242,
+      "sha256": "3921a6f4a4fd3b956b901548240614b7a0d504f59ec4e9104e4a6b35ad302216"
+    },
+    {
+      "path": "assets/references/身份卡/反贼.png",
+      "bytes": 2596849,
+      "sha256": "bc3bb6471f213cdec8e0a33532bd66ff2485b9fb466294a75dfcfedeef63d201"
+    },
+    {
+      "path": "assets/references/身份卡/忠诚.png",
+      "bytes": 2213011,
+      "sha256": "b1146f34c4c036530fa4b3c48f772c3a3c3d8ced541543de11098e267278389a"
+    },
+    {
+      "path": "assets/runtime/battle/v12/health-gray.png",
+      "bytes": 921731,
+      "sha256": "623a3a6b7dd75200dabd9e51076f847a27d340a497bc57d900d95f5867874d87"
+    },
+    {
+      "path": "assets/runtime/battle/v12/health-green.png",
+      "bytes": 663705,
+      "sha256": "0b71fb7bacc70bd57ff999accb49379ada2342592cc8d62442dac0ef6ef8ea1c"
+    },
+    {
+      "path": "assets/runtime/battle/v12/health-red.png",
+      "bytes": 830489,
+      "sha256": "2ef77d05d45d4fdf62cd6d1ad3950e387cab72217b8b208705517d0b1081fb80"
+    },
+    {
+      "path": "assets/runtime/battle/v12/skin-header-clean-20261002.png",
+      "bytes": 1562820,
+      "sha256": "379d0c8e6d871af4734e9203afbbc1d11190e1bfd3c9b428f10da7d3ff2aef11"
+    },
+    {
+      "path": "assets/runtime/battle/v12/skin-seat-clean-20261002.png",
+      "bytes": 1662862,
+      "sha256": "e50a051f60dabdf500a32161f2f93dad9fbb68879e3299ee90278c7da712b26a"
+    },
+    {
+      "path": "assets/runtime/battle/v12/skin.png",
+      "bytes": 1645748,
+      "sha256": "03e2dc10793a1532e700a559157c666ffce2877e6bd3a73af63f091039e6205f"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/底图/arrows.png",
+      "bytes": 1467951,
+      "sha256": "81d7d7cbf9da0f2b5baea3c3628db878887591621d6e7bd40e8534d94c55d2de"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/底图/axe.png",
+      "bytes": 1424610,
+      "sha256": "9cba5e3015b5d50771f77a1a7716afc06c03176f3addc03dc57b14f41fef2f0d"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/底图/bagua_formation.png",
+      "bytes": 1576347,
+      "sha256": "36bebfe377c2a5dd5a39179e6269a85de7fcd85c6de13ee5d5f1c260ab424e10"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/底图/barbarians.png",
+      "bytes": 1420792,
+      "sha256": "045a37fe41ecec227e3172017b1e93b03b871eff183691c7bb34c59090139839"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/底图/borrow_sword.png",
+      "bytes": 1546797,
+      "sha256": "2954e4d7d3407e15ba38d6c1a74ab447e6031cbcf10d7d5de21d4ba55a88eaa8"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/底图/chitu.png",
+      "bytes": 1584054,
+      "sha256": "fda1524212f490ac3727465fedd3d5605f231fa518bcbc6c3e61cd668894624c"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/底图/crossbow.png",
+      "bytes": 1390151,
+      "sha256": "49320c4f777656184564e6c9154b9a7f05e321f6f0dc00be84d217399efaeb3d"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/底图/dayuan.png",
+      "bytes": 1431446,
+      "sha256": "ff685c0fe42919659e760bed2ad93f890ad67de14561c4d88fe2a16fd3d7dc3a"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/底图/dilu.png",
+      "bytes": 1565415,
+      "sha256": "975d39c39fa7061009512f3b75bbd83a5b3deca219d6802cff6051c9218ec530"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/底图/dismantle.png",
+      "bytes": 1462092,
+      "sha256": "423ef626ab8066ad2195289d8efd6e31ab40e88625ee8423079d7121f1924a66"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/底图/double_swords.png",
+      "bytes": 1426459,
+      "sha256": "79d2ba63ca7db662222d1aabadb5c9a5a387d2da24ef5928e9ceb76580703a89"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/底图/draw_two.png",
+      "bytes": 1384833,
+      "sha256": "0dfcc2b3a388d78d9d5d78b7256e1e36657b6ec7b6237d13ac14277eebfa3681"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/底图/duel.png",
+      "bytes": 1434390,
+      "sha256": "03603a33897dadc9a52dd754d7d7ec78f3cceb0ef3e3dff8fce966944000d25a"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/底图/frost_sword.png",
+      "bytes": 1556868,
+      "sha256": "084791d98cbc272cfca63379093aa996fe6d14efec930c1b99dc07764cc4cac6"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/底图/halberd.png",
+      "bytes": 1532535,
+      "sha256": "3b358bf3e73234eec5a4d45610a8880ec287321e65534a28397e2dba40a63c74"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/底图/harvest.png",
+      "bytes": 1681144,
+      "sha256": "6e1e42d615380aa7c04044383bb3ae87559239274033d83d4806462c037d713c"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/底图/indulgence.png",
+      "bytes": 1498772,
+      "sha256": "a1feb3fd1a2c6dc3863bbe7ef3b4300748eb761634c82f562f11156c6626c702"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/底图/jueying.png",
+      "bytes": 1283939,
+      "sha256": "1a9a600d7f0c315e9da13368b21e03b677f71913987e7a86375df8a3606268ba"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/底图/kirin_bow.png",
+      "bytes": 1579710,
+      "sha256": "e41b5f657103043a90db9bf6bc0a48c5d1695084bde541ed776a93cd5b56f4eb"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/底图/lightning.png",
+      "bytes": 1359045,
+      "sha256": "442f625c66ecbba73e01f74f4008c231cfaa56f4b2f47b7392f78940f277afba"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/底图/negate.png",
+      "bytes": 1169700,
+      "sha256": "da5f34f452f51d5e974395b51ef614e22683669c665398ecb3df253f10be022c"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/底图/peach_garden.png",
+      "bytes": 1442114,
+      "sha256": "1068c7f50d2e86060eb9ca745737962aa4e4eb182013f400f6465c0dfa2155dd"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/底图/qinggang_sword.png",
+      "bytes": 1417420,
+      "sha256": "7b641e97e7a07fb1150a3f081aac6c4a1ac57b93fe13ea4193d6e83a4ce4e508"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/底图/qinglong_blade.png",
+      "bytes": 1346837,
+      "sha256": "c22092a8a244004b4c17b7fe0be7235e264f01b3e57b124fd3284e6ab843a3ea"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/底图/renwang_shield.png",
+      "bytes": 1590278,
+      "sha256": "4a59573fcf519e0c10e945f8500c5ff15548a1b29c1a475434f95fe6540ed54b"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/底图/serpent_spear.png",
+      "bytes": 1702003,
+      "sha256": "bd31df34221cd5bdeb473282859e27785c47787c263908a31389a4cc32984d29"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/底图/sha.png",
+      "bytes": 1415624,
+      "sha256": "5de12836b96413ccb1c20be25135b8528e69f8601ee54451e6cbc3a35cab690c"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/底图/shan.png",
+      "bytes": 1435598,
+      "sha256": "4ad1cb83556c6562df9cf6b57eaa8fc440824f03515b37c17c4f527ce34fbabd"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/底图/steal.png",
+      "bytes": 1390819,
+      "sha256": "f6f5b4d4e6c7ca55aee27ef2fdc68a5f63bfef80889f6aedb5894ce7cf60e1cb"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/底图/tao.png",
+      "bytes": 1372566,
+      "sha256": "5f7589852fc88846951d391806cb945948ddaa792a7fec906df2281c30e0fe59"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/底图/zhuahuangfeidian.png",
+      "bytes": 1269655,
+      "sha256": "eb048686f3af51a9e605bdd830a77f4c49e9b4347d2fe679b73375f368d46382"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/底图/zixing.png",
+      "bytes": 1382759,
+      "sha256": "1aa591062b4ac9ed6517838a0917c424376d192183329f1d811335472647b77e"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/文字/arrows.png",
+      "bytes": 42913,
+      "sha256": "da592becaad44b33315415f748cd651c9f52110c32b4d3b8c609ab4bfcc2e962"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/文字/axe.png",
+      "bytes": 40031,
+      "sha256": "01e2ae08a1af916f9f8b4942e7fbc9f2c178f2f3c71185a24608634839e83ab1"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/文字/bagua_formation.png",
+      "bytes": 32820,
+      "sha256": "9b0f60623ae3c63acf38eea725704c48225d8bc255aa33e463af6c51649cba30"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/文字/barbarians.png",
+      "bytes": 43397,
+      "sha256": "7abfd6e6e04187b0017780f2c7ec37e922ccabb514e043155f3c3c42e29c705f"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/文字/borrow_sword.png",
+      "bytes": 45600,
+      "sha256": "0bb9e82bd0f0f84d03b8a7d9c9161f8b12cd497230a799d6f3d3a51f50604720"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/文字/chitu.png",
+      "bytes": 25479,
+      "sha256": "a3f706a6d9a16391230373e1ad0f26f5b8738e62fd57e5499e0849cda81737da"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/文字/crossbow.png",
+      "bytes": 40319,
+      "sha256": "4de93e195e36479ce61e5fb371420802ef79d4bd5411ad577f47a2d93e8d1735"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/文字/dayuan.png",
+      "bytes": 25027,
+      "sha256": "e72cca35edb5bb6bbd6c380edc83a902bb9dca0b2372fd1576ccd1c243b7a385"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/文字/dilu.png",
+      "bytes": 24763,
+      "sha256": "d416da5c116b524030f55046710b356829931f130316cc74e47c2a930ffaaaa2"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/文字/dismantle.png",
+      "bytes": 33305,
+      "sha256": "fe9a14b4d9516e76bf5bf141b723007bbe112218318b5599d360e2680bf6d4e8"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/文字/double_swords.png",
+      "bytes": 41285,
+      "sha256": "f79f42dc024aba99f859924de868a0a465f2dbc271d7e2051fce62a1420d4efd"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/文字/draw_two.png",
+      "bytes": 26637,
+      "sha256": "c4cfeeef2dbcf78686af15f4de5978477c4bae3d5330919346eb25e61232624d"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/文字/duel.png",
+      "bytes": 45093,
+      "sha256": "0aae561ce701e6ca59baf2e40dde975f90b2004caade1fef212e41bad0b50e86"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/文字/frost_sword.png",
+      "bytes": 40906,
+      "sha256": "2e5f7aa5dd60ffed13c9be21390a6dde187ed780e79ab943d4eadb73c2745dda"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/文字/halberd.png",
+      "bytes": 41820,
+      "sha256": "6207f302c35e46f4f5b87803d3e52c67cfa413bae27971ed73646782c41815cd"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/文字/harvest.png",
+      "bytes": 38236,
+      "sha256": "b3dd76fe0bce1be9a140bf05939ff59246ae6fafe47ca09f7c359f85be207953"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/文字/indulgence.png",
+      "bytes": 40167,
+      "sha256": "9227ba4631cf8d6ebfe121e3468f0ef5489208ca643888ba670b6b4e0d7a20b6"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/文字/jueying.png",
+      "bytes": 27129,
+      "sha256": "2f1c284975d6cefca7972c90896bbe2a507a03646cc1ec5234b9cffbade61327"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/文字/kirin_bow.png",
+      "bytes": 38332,
+      "sha256": "3559b5ec8ad6a9df7a78bcf5826057f3590a38119bac4b0538c9c42d555203de"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/文字/lightning.png",
+      "bytes": 40157,
+      "sha256": "4fe929cf1e7c000272b8c95a538ec52431f244d7a8a5d86586ccd99bf15310a2"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/文字/negate.png",
+      "bytes": 38051,
+      "sha256": "c8797373e3c70e81da006dc5c4019d896e42ea53db5f5f2e67cc4ab88bf1ff10"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/文字/peach_garden.png",
+      "bytes": 34276,
+      "sha256": "1ed66dd41eed6827aae2981dc961bcc895d9d7138c34f232ad2be5d66070113f"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/文字/qinggang_sword.png",
+      "bytes": 33981,
+      "sha256": "241585d84c5cf4e27f06926a786a93cfb9b7605ddfdc3075b0bd13a847e75cee"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/文字/qinglong_blade.png",
+      "bytes": 44337,
+      "sha256": "692334990f1045f06dd12d5643f84a8b008f7845af23b5ec4bf6357b573ed125"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/文字/renwang_shield.png",
+      "bytes": 26482,
+      "sha256": "affc61dcdb22befde3fecae3035bd8e95da04d3aa12ccc26080b7024714a8105"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/文字/serpent_spear.png",
+      "bytes": 36857,
+      "sha256": "7eb209e8d358e1d936a8313b1eb28558ad63dc459feccb8723f78b248d5f86c9"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/文字/sha.png",
+      "bytes": 37532,
+      "sha256": "c8a0940095a50bc5a363815e00a24b393d9ddc611b482a3b9df53a32f95c30cc"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/文字/shan.png",
+      "bytes": 28894,
+      "sha256": "d3319460b94d47b0f8ea14e820d09505bd44449fbd250ee10e713a50baf8f84e"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/文字/steal.png",
+      "bytes": 33676,
+      "sha256": "826fd9d2b39180a6d5c107eb10408e8dfa099f70af618646d09cb200df35361b"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/文字/tao.png",
+      "bytes": 32064,
+      "sha256": "3d4ac1d2a508a670492974ffb86ceed881ce19bfab23586da9c6c176d72e2c26"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/文字/zhuahuangfeidian.png",
+      "bytes": 29113,
+      "sha256": "38fa218187f5da038087f9490c7c172b22728bde3d68aece11c3c58d1599d5f6"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/文字/zixing.png",
+      "bytes": 26594,
+      "sha256": "bfefa27cd4415ae99d5a9cbc30a39040a06f35d551e75ba8e063618c0bf78416"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/点数/clubs_10.png",
+      "bytes": 7850,
+      "sha256": "0ae7e4edc4f52fc41c3fa328ffc851caa62a8bbf5de2f7f4045a5f34b93b018c"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/点数/clubs_2.png",
+      "bytes": 7499,
+      "sha256": "4e51872155b6483e3bd0e2605f203ee000a9e0f9125a9e135c3e1ea587b789c8"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/点数/clubs_3.png",
+      "bytes": 7573,
+      "sha256": "c3844f6a7f910369db145db91f540d1dd60c02889a377c25d387846580fdfdb6"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/点数/clubs_4.png",
+      "bytes": 7181,
+      "sha256": "01249d4253cccb085b6e9f1f4c24b4a2333b6aa6e8e3ec8d9d6f44c2594e5e6c"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/点数/clubs_5.png",
+      "bytes": 7391,
+      "sha256": "bf88184f8164956693b990fd0cdb58f42183c124524747fe3039802794637048"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/点数/clubs_6.png",
+      "bytes": 7746,
+      "sha256": "8ba750378ca284afb2b77dce80f9dff708d6e64f405e79fcbba665cc73f6c338"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/点数/clubs_7.png",
+      "bytes": 7274,
+      "sha256": "7ade559f1fbf0e8ebb250d7d72f5ed1cdd1c392d50fa3ff838d09c65b6ca811e"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/点数/clubs_8.png",
+      "bytes": 7815,
+      "sha256": "338add5e31d3b6e6154ce605f6224b4b791720be4ee27ddc62978fb0c377b604"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/点数/clubs_9.png",
+      "bytes": 7749,
+      "sha256": "f1c74772e9540a05559b32d32773a1bb05063a296541701ca7a7ee0bc059904a"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/点数/clubs_A.png",
+      "bytes": 7506,
+      "sha256": "d7b85c0e3805b4fe1269d1f816f7265eba12938ba6a9b6f7dcbfd5593128f59b"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/点数/clubs_J.png",
+      "bytes": 7076,
+      "sha256": "b3baa304b37564c77a41cf2cb3e8a2a21e30361f953d0ff1a7f45a9cb124a531"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/点数/clubs_K.png",
+      "bytes": 7428,
+      "sha256": "e368a28b8defebec5661c91fcccb679b2db7ab639a76f90ab6c154314315e4bd"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/点数/clubs_Q.png",
+      "bytes": 7939,
+      "sha256": "9836b9611d49cc23e6a50a55b9d22a7635b4a8cfa91192f6ea4dcb7272ab72cd"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/点数/diamonds_10.png",
+      "bytes": 7850,
+      "sha256": "0ae7e4edc4f52fc41c3fa328ffc851caa62a8bbf5de2f7f4045a5f34b93b018c"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/点数/diamonds_2.png",
+      "bytes": 7499,
+      "sha256": "4e51872155b6483e3bd0e2605f203ee000a9e0f9125a9e135c3e1ea587b789c8"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/点数/diamonds_3.png",
+      "bytes": 7573,
+      "sha256": "c3844f6a7f910369db145db91f540d1dd60c02889a377c25d387846580fdfdb6"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/点数/diamonds_4.png",
+      "bytes": 7181,
+      "sha256": "01249d4253cccb085b6e9f1f4c24b4a2333b6aa6e8e3ec8d9d6f44c2594e5e6c"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/点数/diamonds_5.png",
+      "bytes": 7391,
+      "sha256": "bf88184f8164956693b990fd0cdb58f42183c124524747fe3039802794637048"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/点数/diamonds_6.png",
+      "bytes": 7746,
+      "sha256": "8ba750378ca284afb2b77dce80f9dff708d6e64f405e79fcbba665cc73f6c338"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/点数/diamonds_7.png",
+      "bytes": 7274,
+      "sha256": "7ade559f1fbf0e8ebb250d7d72f5ed1cdd1c392d50fa3ff838d09c65b6ca811e"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/点数/diamonds_8.png",
+      "bytes": 7815,
+      "sha256": "338add5e31d3b6e6154ce605f6224b4b791720be4ee27ddc62978fb0c377b604"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/点数/diamonds_9.png",
+      "bytes": 7749,
+      "sha256": "f1c74772e9540a05559b32d32773a1bb05063a296541701ca7a7ee0bc059904a"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/点数/diamonds_A.png",
+      "bytes": 7506,
+      "sha256": "d7b85c0e3805b4fe1269d1f816f7265eba12938ba6a9b6f7dcbfd5593128f59b"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/点数/diamonds_J.png",
+      "bytes": 7076,
+      "sha256": "b3baa304b37564c77a41cf2cb3e8a2a21e30361f953d0ff1a7f45a9cb124a531"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/点数/diamonds_K.png",
+      "bytes": 7428,
+      "sha256": "e368a28b8defebec5661c91fcccb679b2db7ab639a76f90ab6c154314315e4bd"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/点数/diamonds_Q.png",
+      "bytes": 7939,
+      "sha256": "9836b9611d49cc23e6a50a55b9d22a7635b4a8cfa91192f6ea4dcb7272ab72cd"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/点数/hearts_10.png",
+      "bytes": 7850,
+      "sha256": "0ae7e4edc4f52fc41c3fa328ffc851caa62a8bbf5de2f7f4045a5f34b93b018c"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/点数/hearts_2.png",
+      "bytes": 7499,
+      "sha256": "4e51872155b6483e3bd0e2605f203ee000a9e0f9125a9e135c3e1ea587b789c8"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/点数/hearts_3.png",
+      "bytes": 7573,
+      "sha256": "c3844f6a7f910369db145db91f540d1dd60c02889a377c25d387846580fdfdb6"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/点数/hearts_4.png",
+      "bytes": 7181,
+      "sha256": "01249d4253cccb085b6e9f1f4c24b4a2333b6aa6e8e3ec8d9d6f44c2594e5e6c"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/点数/hearts_5.png",
+      "bytes": 7391,
+      "sha256": "bf88184f8164956693b990fd0cdb58f42183c124524747fe3039802794637048"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/点数/hearts_6.png",
+      "bytes": 7746,
+      "sha256": "8ba750378ca284afb2b77dce80f9dff708d6e64f405e79fcbba665cc73f6c338"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/点数/hearts_7.png",
+      "bytes": 7274,
+      "sha256": "7ade559f1fbf0e8ebb250d7d72f5ed1cdd1c392d50fa3ff838d09c65b6ca811e"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/点数/hearts_8.png",
+      "bytes": 7815,
+      "sha256": "338add5e31d3b6e6154ce605f6224b4b791720be4ee27ddc62978fb0c377b604"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/点数/hearts_9.png",
+      "bytes": 7749,
+      "sha256": "f1c74772e9540a05559b32d32773a1bb05063a296541701ca7a7ee0bc059904a"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/点数/hearts_A.png",
+      "bytes": 7506,
+      "sha256": "d7b85c0e3805b4fe1269d1f816f7265eba12938ba6a9b6f7dcbfd5593128f59b"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/点数/hearts_J.png",
+      "bytes": 7076,
+      "sha256": "b3baa304b37564c77a41cf2cb3e8a2a21e30361f953d0ff1a7f45a9cb124a531"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/点数/hearts_K.png",
+      "bytes": 7428,
+      "sha256": "e368a28b8defebec5661c91fcccb679b2db7ab639a76f90ab6c154314315e4bd"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/点数/hearts_Q.png",
+      "bytes": 7939,
+      "sha256": "9836b9611d49cc23e6a50a55b9d22a7635b4a8cfa91192f6ea4dcb7272ab72cd"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/点数/spades_10.png",
+      "bytes": 7850,
+      "sha256": "0ae7e4edc4f52fc41c3fa328ffc851caa62a8bbf5de2f7f4045a5f34b93b018c"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/点数/spades_2.png",
+      "bytes": 7499,
+      "sha256": "4e51872155b6483e3bd0e2605f203ee000a9e0f9125a9e135c3e1ea587b789c8"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/点数/spades_3.png",
+      "bytes": 7573,
+      "sha256": "c3844f6a7f910369db145db91f540d1dd60c02889a377c25d387846580fdfdb6"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/点数/spades_4.png",
+      "bytes": 7181,
+      "sha256": "01249d4253cccb085b6e9f1f4c24b4a2333b6aa6e8e3ec8d9d6f44c2594e5e6c"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/点数/spades_5.png",
+      "bytes": 7391,
+      "sha256": "bf88184f8164956693b990fd0cdb58f42183c124524747fe3039802794637048"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/点数/spades_6.png",
+      "bytes": 7746,
+      "sha256": "8ba750378ca284afb2b77dce80f9dff708d6e64f405e79fcbba665cc73f6c338"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/点数/spades_7.png",
+      "bytes": 7274,
+      "sha256": "7ade559f1fbf0e8ebb250d7d72f5ed1cdd1c392d50fa3ff838d09c65b6ca811e"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/点数/spades_8.png",
+      "bytes": 7815,
+      "sha256": "338add5e31d3b6e6154ce605f6224b4b791720be4ee27ddc62978fb0c377b604"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/点数/spades_9.png",
+      "bytes": 7749,
+      "sha256": "f1c74772e9540a05559b32d32773a1bb05063a296541701ca7a7ee0bc059904a"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/点数/spades_A.png",
+      "bytes": 7506,
+      "sha256": "d7b85c0e3805b4fe1269d1f816f7265eba12938ba6a9b6f7dcbfd5593128f59b"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/点数/spades_J.png",
+      "bytes": 7076,
+      "sha256": "b3baa304b37564c77a41cf2cb3e8a2a21e30361f953d0ff1a7f45a9cb124a531"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/点数/spades_K.png",
+      "bytes": 7428,
+      "sha256": "e368a28b8defebec5661c91fcccb679b2db7ab639a76f90ab6c154314315e4bd"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/点数/spades_Q.png",
+      "bytes": 7939,
+      "sha256": "9836b9611d49cc23e6a50a55b9d22a7635b4a8cfa91192f6ea4dcb7272ab72cd"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/花色/clubs.png",
+      "bytes": 99771,
+      "sha256": "af37c449f057861e9573e2f97c655451357a4e846411beba115332abd0d25262"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/花色/diamonds.png",
+      "bytes": 99721,
+      "sha256": "16648a3ab0f22922fd0812d678e313d3be2cbafba1d2b9c2db6bb4c1b9c5e63f"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/花色/hearts.png",
+      "bytes": 99322,
+      "sha256": "f1d9c50f1818dc48afca583cfb6dc592f32bebc60261241c0d16cd288ba1eb74"
+    },
+    {
+      "path": "assets/runtime/cards/v06/layers/花色/spades.png",
+      "bytes": 95402,
+      "sha256": "b3f0d0dc7efce956f4c6b4a1d4d63ef320c92f4099ca26736bf7a10a47ab4cab"
+    },
+    {
+      "path": "assets/runtime/fonts/LXGW-OFL.txt",
+      "bytes": 5171,
+      "sha256": "1a25e35da1031c6c3436fde545bb9cb5aca954e9873afe510c834b8b79bd21a0"
+    },
+    {
+      "path": "assets/runtime/fonts/LXGWWenKai-Regular.ttf",
+      "bytes": 25575676,
+      "sha256": "39ad71264b588165b469e35e6afb162a378dacd1f95348160240ba9038ac3009"
+    },
+    {
+      "path": "assets/runtime/fonts/Noto-OFL.txt",
+      "bytes": 4301,
+      "sha256": "6a73f9541c2de74158c0e7cf6b0a58ef774f5a780bf191f2d7ec9cc53efe2bf2"
+    },
+    {
+      "path": "assets/runtime/fonts/NotoSansCJKsc-Regular.otf",
+      "bytes": 16437364,
+      "sha256": "2c76254f6fc379fddfce0a7e84fb5385bb135d3e399294f6eeb6680d0365b74b"
+    },
+    {
+      "path": "assets/runtime/fonts/sources.json",
+      "bytes": 1261,
+      "sha256": "870129f11f8b4c299d70c936727de7098cbea74b86e125c39d5387ba525d4513"
+    },
+    {
+      "path": "assets/runtime/shell/battle-tent-menu-v02.png",
+      "bytes": 1697693,
+      "sha256": "d57d4d454816d5d45d418d87b03d89b95f900118cdfb39ceeace2039f0d71550"
+    },
+    {
+      "path": "assets/runtime/shell/command-pavilion-secondary-v01.png",
+      "bytes": 1778685,
+      "sha256": "18bdabccaf16ef73481c3c801e2cde502207cade0b09f587d2642eea7934077e"
+    },
+    {
+      "path": "assets/runtime/shell/menu-approved.png",
+      "bytes": 1879119,
+      "sha256": "1a645f16e0b67218e8d065e2875cd3d8c092e779f9a05cfd99d54c50f5259365"
+    },
+    {
+      "path": "docs/product/需求规则追踪矩阵.md",
+      "bytes": 37028,
+      "sha256": "f2e495a010a5519591886a73dd9b78973e6c28ff08725bf0dcee09578ea062b2"
+    },
+    {
+      "path": "docs/release/ASSETS.md",
+      "bytes": 2936,
+      "sha256": "b8d9128d0c0b0fd1227658976fdea6bd4e642ca50bfecdbeaa7b6622cd396f91"
+    },
+    {
+      "path": "docs/release/ASSET_CREDITS.md",
+      "bytes": 2571,
+      "sha256": "479462ad8a1b6bd434a8dcbfb34d36dc249203c846f336aaea6cb72f56b78272"
+    },
+    {
+      "path": "docs/release/ASSET_LICENSE.md",
+      "bytes": 1136,
+      "sha256": "da8e64827e25c79858445d7e6cb15c38bd2948ddb4c01c7021e3d2380e4efb05"
+    },
+    {
+      "path": "docs/release/DEVELOPMENT.md",
+      "bytes": 1236,
+      "sha256": "ba355374c664824fea2eef6abb611a64416dde29bd62a8a901a0a9df347a5ca7"
+    },
+    {
+      "path": "docs/release/VERIFICATION.md",
+      "bytes": 920,
+      "sha256": "f388a661c46f7baa7fe8e7e63893042380a26e35820a70f9b771ba07bfb5f383"
+    },
+    {
+      "path": "docs/release/WINDOWS_RELEASE.md",
+      "bytes": 2229,
+      "sha256": "9957d84f9d0d96e026f5257ba9cf97c2e0fe661bd38758cd23f6449513078efc"
+    },
+    {
+      "path": "docs/release/runtime-assets.json",
+      "bytes": 150848,
+      "sha256": "bab756fcbb03bff19c805c001d0acca056f2d7d2b67cb6f48f21bbacd7dfd0f0"
+    },
+    {
+      "path": "docs/release/screenshots/main-menu.png",
+      "bytes": 1116297,
+      "sha256": "e8b7821927863f63748903e07982d63bddd1b6173f12c5a37239e6741e4e1e39"
+    },
+    {
+      "path": "requirements-build.txt",
+      "bytes": 166,
+      "sha256": "279e6aab3f829feae3e0b2a263627e0407384771cbfd002f638bb343d6119895"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 17,
+      "sha256": "fdb9840ce37afc18b3a3bf57048fc772798b8e551630a1c9f9635f2e925a4cf6"
+    },
+    {
+      "path": "run_game.py",
+      "bytes": 352,
+      "sha256": "33ef01c8a3af0465295e179b1da726865c09944bbc7d765e3e060d9209517e90"
+    },
+    {
+      "path": "src/xssgkpz/__init__.py",
+      "bytes": 122,
+      "sha256": "6a18059358378669af7764349bd43240c38073973afcd2fb0d60736502922e48"
+    },
+    {
+      "path": "src/xssgkpz/__main__.py",
+      "bytes": 56,
+      "sha256": "4af246d602b8f0ce15adbfd3e72740bda2442f5ea75369828c3825f86044f40c"
+    },
+    {
+      "path": "src/xssgkpz/app.py",
+      "bytes": 68291,
+      "sha256": "2942c7d95b781a19fb64ef7a5fe03e76392626a34a319586ce3c9d611312c682"
+    },
+    {
+      "path": "src/xssgkpz/audio.py",
+      "bytes": 13276,
+      "sha256": "60ef0748d81507f1e2a3eb62885b146e456e532b7213b85785942d62db88c120"
+    },
+    {
+      "path": "src/xssgkpz/battle_transitions.py",
+      "bytes": 6628,
+      "sha256": "51e90055c8059dd22a6f488b56e6e77cae9773167bcbf9d82ed26340a10ca73a"
+    },
+    {
+      "path": "src/xssgkpz/battle_ui.py",
+      "bytes": 81443,
+      "sha256": "bc52db9c154c4bf2e2eafa7813236b9a577d4d8194d6421f7e1a74807a96e635"
+    },
+    {
+      "path": "src/xssgkpz/card_art.py",
+      "bytes": 1743,
+      "sha256": "a11f2b487f227ebc2148c7314478c1c7a35d52f2a4387e5686fab32e64f7d40d"
+    },
+    {
+      "path": "src/xssgkpz/core/__init__.py",
+      "bytes": 55,
+      "sha256": "195859b220fd581713e52d655e761ace5f77903da6642836e6f0b08772ffc84a"
+    },
+    {
+      "path": "src/xssgkpz/core/actions.py",
+      "bytes": 963,
+      "sha256": "78327f4580edd4e2ea3d1c44e837259eb0201179fb0c6aa0f9ff17da6325f3fe"
+    },
+    {
+      "path": "src/xssgkpz/core/ai.py",
+      "bytes": 40735,
+      "sha256": "f2b63c0fd00cce8373b2bf5f015a36a5f630dc764576798554ac5213bb967959"
+    },
+    {
+      "path": "src/xssgkpz/core/deck.py",
+      "bytes": 1013,
+      "sha256": "955e684d85425e6654920c1937d78d19847b916e27bcc8676db83709e5611b0c"
+    },
+    {
+      "path": "src/xssgkpz/core/gameplay.py",
+      "bytes": 170538,
+      "sha256": "bdda173a45d70985b7648b525c5706a3f4c45541a277bf1c1ff148960c055989"
+    },
+    {
+      "path": "src/xssgkpz/core/match.py",
+      "bytes": 6537,
+      "sha256": "c9ab7342b397cff53f995b175ba1c949be85cc6b07d557c040b363075cf31959"
+    },
+    {
+      "path": "src/xssgkpz/core/observation.py",
+      "bytes": 3450,
+      "sha256": "3e479781db811df5e03ac19da2ff20ae3b470eb1a20a507b4e0998197c163157"
+    },
+    {
+      "path": "src/xssgkpz/core/random_stream.py",
+      "bytes": 2184,
+      "sha256": "3e377e50951e50f0d309c872983a62d9163addb6bd8606266354f8ff67a201cf"
+    },
+    {
+      "path": "src/xssgkpz/core/stage1_match.py",
+      "bytes": 8545,
+      "sha256": "14cb4a92dda10f056f7c59f20c1b833bd9184dceaaf7a75906b93c97316651db"
+    },
+    {
+      "path": "src/xssgkpz/core/state.py",
+      "bytes": 6772,
+      "sha256": "2f38bf97d8817f3c29c712fc4eb0b41147c5e00090590d85d8b1a6330a7489c8"
+    },
+    {
+      "path": "src/xssgkpz/data/__init__.py",
+      "bytes": 45,
+      "sha256": "d83b8fd75b4406c59642ee7465b4530727f305dadd58d9b7cfdd6688e24dfcaa"
+    },
+    {
+      "path": "src/xssgkpz/data/ai_personalities.py",
+      "bytes": 2665,
+      "sha256": "88535782fe73bc5825cb52c1fb32074ef780c41d103ceaf94d8dc71a008f0fe8"
+    },
+    {
+      "path": "src/xssgkpz/data/assets.py",
+      "bytes": 2143,
+      "sha256": "c72b24f86ddad53091d0898391c2a8a6df08e0ce4c969f4806a5e047ed4c65fb"
+    },
+    {
+      "path": "src/xssgkpz/data/cards.py",
+      "bytes": 16291,
+      "sha256": "0389c807eb9eb7e685d14f545d3a9f8ffd2afb8cb67f10040c3bce10908f26f4"
+    },
+    {
+      "path": "src/xssgkpz/data/heroes.py",
+      "bytes": 10809,
+      "sha256": "dc16ebca5ed73939bbf6679752338c57954c438734cc9723b05f0819ee6edae5"
+    },
+    {
+      "path": "src/xssgkpz/data/modes.py",
+      "bytes": 2857,
+      "sha256": "30c773d7f0c3ee915fc9ff9c714dd4398886155208309adb6f2b617ee2b45a22"
+    },
+    {
+      "path": "src/xssgkpz/data/settings.py",
+      "bytes": 3070,
+      "sha256": "fe1c6208199ac101c278b01905b2bddf54ce2c053336a9d2852b7dfbc41e2041"
+    },
+    {
+      "path": "src/xssgkpz/data/traceability.py",
+      "bytes": 1452,
+      "sha256": "e5c47dcad23ebb88cb7e47fdf80c650fe9b7ba27ceb03959b1f1aa4953eeea03"
+    },
+    {
+      "path": "src/xssgkpz/data/tutorials.py",
+      "bytes": 7953,
+      "sha256": "ed97b268fe318c7f1322dc93d75782b06e9fd6ecadfc442eceda92e6c49704b5"
+    },
+    {
+      "path": "src/xssgkpz/detail_editor.py",
+      "bytes": 7148,
+      "sha256": "31473fc4ea9ce161270ddc01a39cf3914206a48a5506384ffda02936c05eeda4"
+    },
+    {
+      "path": "src/xssgkpz/diagnostics.py",
+      "bytes": 5802,
+      "sha256": "4bd14364745383d804f89a8f30fe9d5a022eb47368659cfbda36c39452af0bde"
+    },
+    {
+      "path": "src/xssgkpz/fonts.py",
+      "bytes": 599,
+      "sha256": "039d40fcca7b6a92e90f896e4f2d43704d61c43e362adb3b49de2e6aeba4109b"
+    },
+    {
+      "path": "src/xssgkpz/guided_tutorial.py",
+      "bytes": 31906,
+      "sha256": "6f189d5855a06ce8ec952d650b62120f98b84913d1035da1473108f147f6ae75"
+    },
+    {
+      "path": "src/xssgkpz/menu_buttons.py",
+      "bytes": 4927,
+      "sha256": "0116a660b68f4baef7bd5c9321f0a8514d0792d292ec4337b70855e7ab515638"
+    },
+    {
+      "path": "src/xssgkpz/persistence.py",
+      "bytes": 9431,
+      "sha256": "e0e74b6fcd47a9791981a4a7bfa56b7d59856d850fe6393307c5ee2bfa9710c3"
+    },
+    {
+      "path": "src/xssgkpz/resource_paths.py",
+      "bytes": 272,
+      "sha256": "6adaf998efbfb633e92e267ff1a8f83319c257c9c9a38349b59d70ae9393158b"
+    },
+    {
+      "path": "src/xssgkpz/shell_layout.py",
+      "bytes": 28830,
+      "sha256": "996d27915e07eb206b5c79dcfa5d808e1c35918aa4f7cd54ff89eac294f405c7"
+    },
+    {
+      "path": "src/xssgkpz/shell_theme.py",
+      "bytes": 4245,
+      "sha256": "be2c1393aff9462873a98ab29de8b167db4ad062b2168b584afa0ac0e0af283c"
+    },
+    {
+      "path": "tests/_support.py",
+      "bytes": 239,
+      "sha256": "75aac9c7ec31496e8b25202eb76513f61fad07e5590ac13c2413ffa460805bcc"
+    },
+    {
+      "path": "tests/test_ai_display_pacing.py",
+      "bytes": 11488,
+      "sha256": "83cad323e76d58c57b8873d5fb0eb0438fe77cdbe5bae7b295fcdb20c3b040e5"
+    },
+    {
+      "path": "tests/test_battle_ui_integration.py",
+      "bytes": 13718,
+      "sha256": "62902a839d9747d9a291cadfe771c6396a3d89a53f688c5e7ebc2d9a45d9a320"
+    },
+    {
+      "path": "tests/test_core_contracts.py",
+      "bytes": 9145,
+      "sha256": "56e5a9401eaef59e1088c6e737f66f0d2cb8677180a00b9cd05ea64db89b0ba8"
+    },
+    {
+      "path": "tests/test_hard_ai_board.py",
+      "bytes": 6404,
+      "sha256": "1e1f0c694d7aa85e33b15f0098cff321d8f22dcd5b0f394e49caab96a8258131"
+    },
+    {
+      "path": "tests/test_stage1_gameplay.py",
+      "bytes": 38520,
+      "sha256": "6792679bc9305cc48b0cd758dc81f319d25f2453705dde48125fbcd96c09d911"
+    },
+    {
+      "path": "tests/test_stage2_rules.py",
+      "bytes": 188036,
+      "sha256": "837ddbff130da7e52e3e3a71f4611e7a02a7baff921e150c185171ae10a2064a"
+    },
+    {
+      "path": "tests/test_stage3_ai.py",
+      "bytes": 20972,
+      "sha256": "305148d41dda3c2fc5bf194c9560e1598cee97b412f47df619fe208d57770a26"
+    },
+    {
+      "path": "tests/test_stage4_features.py",
+      "bytes": 9562,
+      "sha256": "9b1d1110cac65e90f4bf93559619a89afdb598be83a4a712766b4524324c4b96"
+    },
+    {
+      "path": "tests/test_startup.py",
+      "bytes": 999,
+      "sha256": "bfe25c7e289f3a34eb96690acc9e3034303b3bc18696bed295bc34c83d318b63"
+    },
+    {
+      "path": "tests/test_static_data.py",
+      "bytes": 11915,
+      "sha256": "ddd98afac808e82792a634602a4d0347de050a1163d42ab095f1905090afad8c"
+    },
+    {
+      "path": "tests/test_turn_and_weapon_regressions.py",
+      "bytes": 9138,
+      "sha256": "b188943f97c2c11fe063a659da8d5178545f09295711a0e99538a4e76d27f300"
+    },
+    {
+      "path": "tools/build_public_windows.py",
+      "bytes": 7890,
+      "sha256": "f238c37647fd85d0e327037dbe9750412374876c3dc3cffe39af36aa1accf1c2"
+    },
+    {
+      "path": "tools/prepare_open_source.py",
+      "bytes": 16719,
+      "sha256": "2e55bba570135fab6a1312b41126219291751c17318c094f81aa652e6eda796e"
+    },
+    {
+      "path": "tools/public_windows.spec",
+      "bytes": 687,
+      "sha256": "6a02650fe34dbebf345eaaefbac940f405ad0482eb50dd25c2fbcefc0253f432"
+    },
+    {
+      "path": "tools/simulate_ai.py",
+      "bytes": 10129,
+      "sha256": "9970afce36a2879ca1a03fb50c1f270fd3022ce3d17ba692ac9d844b2df2a1a3"
+    }
+  ]
+}
